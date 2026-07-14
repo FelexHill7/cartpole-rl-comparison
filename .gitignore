@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+*.log
+*.mp4
+*.png
+*.npy
+*.pt
+output/
+.venv/
+venv/
+.env
+.DS_Store
