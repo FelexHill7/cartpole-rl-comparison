@@ -13,3 +13,8 @@ output/
 venv/
 .env
 .DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.claude/
+aicosmos-runtime-*/
